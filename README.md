@@ -1,6 +1,6 @@
 # CARBON_EMMISION_PRED_BY_SHIVANII_SINGH
 
-**Data Cleaning & Preparation:**
+# Data Cleaning & Preparation:
 **Introduction**  
   Summarized the project goal—predicting CO₂ emissions—and provided background on the data source and its relevance.
 
@@ -31,7 +31,7 @@
   Exported the clean and transformed dataset to a file, making it ready for the next stage: visualization and modeling.
 
 
-**Data exploration and visualization:**
+# Data exploration and visualization:
 **Just Started the next step :**
 
 Went beyond the initial task by conducting Data Exploration And Visualization to gain first data insights from descriptive statistics, visualize relevant dependencies and identify global trends. 
