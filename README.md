@@ -2,10 +2,10 @@
 
 This project aims to forecast carbon dioxide (CO₂) emissions using a comprehensive dataset that includes demographic, economic, land-use, and energy consumption indicators. By applying machine learning—specifically the Random Forest Regressor—we build a predictive model that can estimate future greenhouse gas (GHG) emissions with high accuracy. This tool is intended to support environmental policy planning and sustainability research.
 
+# THE MODEL IS ALSO ATTACHED IN THE RELEASE SECTION YOU CAN DOWNLOAD IT FROM THERE ALSO!!
 🔗 **Model Access**: [Download the trained model](https://drive.google.com/file/d/1E7ku6arbCqdKQWGQFme5bxlPK8asC1Jt/view?usp=sharing)
 
 ## Required Libraries
-
 Install the following dependencies before running the project:
 pip install numpy pandas seaborn streamlit matplotlib scikit-learn
 
